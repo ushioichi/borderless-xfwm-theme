@@ -1,4 +1,4 @@
-# borderless-xfwm-theme
+# Borderless - XFWM Theme
 
 Your Xfce without borders
 
